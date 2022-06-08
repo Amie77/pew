@@ -1,0 +1,37 @@
+# Standard unity stuff
+/Temp/
+/Obj/
+/Build/
+/Library/
+
+# mono debugging files, automatically created by UnityVS
+*.dll.mdb
+*.dll.mdb.meta
+
+# MonoDevelop and Visual Studio files, automatically created by Unity
+/Assembly-Csharp*.csproj
+/Assembly-UnityScript*.unityproj
+/*.csproj
+/*.csproj.user
+/*.CSharp.*user
+*.suo
+/*.sln
+/*.userprefs
+/.vs/
+
+# PT currently drops files into Poly/, so ignore that temporarily
+/Assets/Poly/
+/Assets/Poly.meta
+
+/Assets/PolyToolkit/Editor/upgrade.dat
+/Assets/PolyToolkit/Editor/upgrade.dat.meta
+
+.DS_Store
+
+# Ignore built unity packages, we don't want to check those in.
+*.unitypackage
+
+
+# Don't commit the Asset Store Tools plugin.
+/Assets/AssetStoreTools/
+/Assets/AssetStoreTools.meta
