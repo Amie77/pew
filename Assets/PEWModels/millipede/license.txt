@@ -1,0 +1,11 @@
+Model Information:
+* title:	Millipede
+* source:	https://sketchfab.com/3d-models/millipede-a859e3dd35e9413baa8632b2d984b593
+* author:	Spore-Mantis (https://sketchfab.com/Black-Monoblos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Millipede" (https://sketchfab.com/3d-models/millipede-a859e3dd35e9413baa8632b2d984b593) by Spore-Mantis (https://sketchfab.com/Black-Monoblos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

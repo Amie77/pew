@@ -1,0 +1,11 @@
+Model Information:
+* title:	Troll wall
+* source:	https://sketchfab.com/3d-models/troll-wall-35dd3a49bdff4931b2e8189cfc48bbf6
+* author:	Thunder (https://sketchfab.com/thunderpwn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Troll wall" (https://sketchfab.com/3d-models/troll-wall-35dd3a49bdff4931b2e8189cfc48bbf6) by Thunder (https://sketchfab.com/thunderpwn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

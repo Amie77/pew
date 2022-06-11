@@ -1,0 +1,11 @@
+Model Information:
+* title:	low poly king size bed
+* source:	https://sketchfab.com/3d-models/low-poly-king-size-bed-c459459cbc734fb1899f4e65b5f13f0c
+* author:	MrPuppet (https://sketchfab.com/MrPuppet)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "low poly king size bed" (https://sketchfab.com/3d-models/low-poly-king-size-bed-c459459cbc734fb1899f4e65b5f13f0c) by MrPuppet (https://sketchfab.com/MrPuppet) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
