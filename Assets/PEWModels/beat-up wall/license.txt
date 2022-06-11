@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shelled wall 05
+* source:	https://sketchfab.com/3d-models/shelled-wall-05-17c6d1d4738e4bdeb51b4683d81db32b
+* author:	yaro.pro (https://sketchfab.com/yaro.pro)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shelled wall 05" (https://sketchfab.com/3d-models/shelled-wall-05-17c6d1d4738e4bdeb51b4683d81db32b) by yaro.pro (https://sketchfab.com/yaro.pro) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
