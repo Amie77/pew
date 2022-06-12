@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rectangular Quartz Clock
+* source:	https://sketchfab.com/3d-models/rectangular-quartz-clock-18008262b60d42b18d127666da64f82d
+* author:	Pyromma-GS (https://sketchfab.com/Pyromma-GS)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rectangular Quartz Clock" (https://sketchfab.com/3d-models/rectangular-quartz-clock-18008262b60d42b18d127666da64f82d) by Pyromma-GS (https://sketchfab.com/Pyromma-GS) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
