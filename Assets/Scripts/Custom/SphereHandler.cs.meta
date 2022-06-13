@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8d37c0f5be2b6f46b7567d51a3a9f4c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sphNeg: {fileID: 2173392580403883737, guid: 6e9189eaabb76224db0d8f8006fce9c6,
+      type: 3}
+  - sphPos: {fileID: 6944803754428290457, guid: b8219aa854047c6409aa44a6f47a3642,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

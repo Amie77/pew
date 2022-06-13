@@ -1574,6 +1574,8 @@ public class MultiCamTool : BaseTool {
         OutputWindowScript.ReportFileSaved("Snapshot Saved!", saveName,
             OutputWindowScript.InfoCardSpawnPos.Brush);
 
+        SphereHandler.ScreenshotSuccess(saveName);
+
         if (!App.PlatformConfig.EnableMulticamPreview) {
           var multiCam = SketchControlsScript.m_Instance.MultiCamCaptureRig;
           yield return multiCam.SnapshotFlashAnimation(m_CurrentCameraIndex, tmp);
